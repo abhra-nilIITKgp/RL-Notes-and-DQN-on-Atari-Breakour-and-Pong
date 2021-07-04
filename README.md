@@ -14,5 +14,5 @@ Textbooks:
 
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
 
-Other Useful Onine Class:
+Other Useful Online Class:
 - [CS285 - Deep Reinforcement Learning (Berkeley, Fall 2020)](http://rail.eecs.berkeley.edu/deeprlcourse/)
